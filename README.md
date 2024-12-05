@@ -36,7 +36,7 @@ Decidi então que seria **programador**. Fui em busca de me aprofundar nas princ
 - Contribuir para projetos open source que ajudem a comunidade de desenvolvedores.
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkkdev/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkkdev/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkkdev/nkkdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkkdev/nkkdev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nkkdev/nkkdev/output/github-contribution-grid-snake.svg">
 </picture>
