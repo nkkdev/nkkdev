@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o **Nikolas**
-Sou um desenvolvedor **Full Stack** apaixonado por criar soluções tecnológicas inovadoras que fazem a diferença. Desde a infância, minha paixão pela programação tem sido uma jornada constante de aprendizado e evolução.
+Sou um desenvolvedor **Front-end** apaixonado por criar soluções tecnológicas inovadoras que fazem a diferença. Desde a infância, minha paixão pela programação tem sido uma jornada constante de aprendizado e evolução.
 
 ### 🌐 **Redes Sociais**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-fernandes-batista-bb962b340/)  
